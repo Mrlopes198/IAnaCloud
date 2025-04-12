@@ -1,0 +1,14 @@
+Desafio 2 
+
+Situação proposta: 
+Entender satisfação de clientes de uma cafeteria.
+
+Como?
+Criando um repositório com todas as bases de reviews.
+
+Serviços utilizados:
+Azure AI Search 
+
+Foi criada uma storage account 
+Foi feito o upload das reviews dos clientes 
+Por fim, com o repositório pronto foram feitas buscas para entender a satisfação do clientes de determinada localização. 

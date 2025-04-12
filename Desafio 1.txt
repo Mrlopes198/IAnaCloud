@@ -1,0 +1,9 @@
+Desafio 1 
+
+Situação proposta: 
+Identificar os sentimentos das reviews de clientes de um hotel 
+
+Serviço utilizado:
+Language Studio 
+
+Foi criado um novo recurso de classificação de texto e realizada uma analise do sentimentos presentes no texto. Um ponto interessante é que o serviço trás as pontos principais/palavras chaves das sentenças. 

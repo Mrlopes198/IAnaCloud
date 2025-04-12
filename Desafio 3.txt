@@ -1,0 +1,5 @@
+Desafio 3:
+
+Situação proposta: Gerar imagens usando o Copilot 
+
+O modulo trás as 4 etapas para implementar um plano de IA responsável: Identificar, Medida, Mitigar e Operar. 
